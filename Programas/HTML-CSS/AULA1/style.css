@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: #023047;
+    color: #F6F6F6;
+}
+
+.texto-destaque {
+    color: #8ecae6;
+}
+
+.titulo-blog {
+    color: #219ebc;
+}
+
+.urgente {
+    color: red;
+}
+
+p {
+    margin: 10px;
+    border: 2px solid #fb8500;
+    padding: 5px;
+}
+
+.apresentacao {
+    display: flex;
+    align-items: center;
+}
